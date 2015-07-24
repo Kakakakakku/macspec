@@ -1,0 +1,27 @@
+- hosts: localhost
+  connection: local
+  gather_facts: no
+  sudo: no
+  roles:
+    - homebrew
+    - homebrew-cask
+  vars:
+    homebrew_repositories:
+    homebrew_packages:
+      - brew-cask
+      - elasticsearch
+      - git
+      - hub
+      - imagemagick
+      - jq
+      - openssl
+      - peco
+      - rbenv
+      - readline
+      - ruby-build
+      - the_silver_searcher
+      - tmux
+      - tree
+      - wget
+    homebrew_cask_repositories:
+    homebrew_cask_packages:
