@@ -23,5 +23,6 @@
       - tmux
       - tree
       - wget
+      - qt
     homebrew_cask_repositories:
     homebrew_cask_packages:
