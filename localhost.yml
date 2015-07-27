@@ -24,5 +24,6 @@
       - tree
       - wget
       - qt
+      - ansible
     homebrew_cask_repositories:
     homebrew_cask_packages:
