@@ -25,5 +25,6 @@
       - wget
       - qt
       - ansible
+      - ghostscript
     homebrew_cask_repositories:
     homebrew_cask_packages:
