@@ -32,5 +32,6 @@
       - nkf
       - scala
       - gradle
+      - mongodb
     homebrew_cask_repositories:
     homebrew_cask_packages:
