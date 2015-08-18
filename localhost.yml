@@ -34,7 +34,9 @@
       - gradle
       - mongodb
       - heroku-toolbelt
-      - httpd22 # brew tap homebrew/apache
-      - php55 # brew tap homebrew/homebrew-php # brew install php55 --homebrew-apxs
+      - httpd22
+      - php55 # brew install php55 --homebrew-apxs
+      - php55-xdebug
+      - composer
     homebrew_cask_repositories:
     homebrew_cask_packages:
