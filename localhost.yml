@@ -34,5 +34,6 @@
       - gradle
       - mongodb
       - heroku-toolbelt
+      - httpd22 # brew tap homebrew/apache
     homebrew_cask_repositories:
     homebrew_cask_packages:
