@@ -38,5 +38,6 @@
       - php55 # brew install php55 --homebrew-apxs
       - php55-xdebug
       - composer
+      - etcd
     homebrew_cask_repositories:
     homebrew_cask_packages:
