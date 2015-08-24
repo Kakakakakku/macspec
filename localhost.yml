@@ -39,5 +39,7 @@
       - php55-xdebug
       - composer
       - etcd
+      - activemq
+      - rabbitmq
     homebrew_cask_repositories:
     homebrew_cask_packages:
