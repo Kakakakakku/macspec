@@ -43,5 +43,6 @@
       - activemq
       - rabbitmq
       - mycli
+      - node
     homebrew_cask_repositories:
     homebrew_cask_packages:
