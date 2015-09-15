@@ -12,6 +12,7 @@
       - elasticsearch
       - git
       - hub
+      - tig
       - imagemagick
       - jq
       - openssl
