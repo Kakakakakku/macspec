@@ -36,9 +36,7 @@
       - gradle
       - mongodb
       - heroku-toolbelt
-      - httpd22
-      - php55 # brew install php55 --homebrew-apxs
-      - php55-xdebug
+      - php56
       - composer
       - etcd
       - activemq
