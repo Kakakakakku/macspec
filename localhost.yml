@@ -46,5 +46,6 @@
       - ngrok
       - packer
       - go
+      - nvm
     homebrew_cask_repositories:
     homebrew_cask_packages:
