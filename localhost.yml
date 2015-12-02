@@ -47,5 +47,6 @@
       - packer
       - go
       - nvm
+      - highlight
     homebrew_cask_repositories:
     homebrew_cask_packages:
