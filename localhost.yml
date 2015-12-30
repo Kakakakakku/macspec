@@ -36,7 +36,6 @@
       - gradle
       - mongodb
       - heroku-toolbelt
-      - php56
       - composer
       - etcd
       - activemq
