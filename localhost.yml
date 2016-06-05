@@ -28,7 +28,7 @@
       - qt
       - ansible
       - ghostscript
-      - mysql
+      - mysql56
       - redis
       - memcached
       - nkf
@@ -37,15 +37,14 @@
       - mongodb
       - heroku-toolbelt
       - composer
-      - etcd
       - activemq
       - rabbitmq
       - mycli
       - node
-      - ngrok
       - packer
       - go
       - nvm
       - highlight
+      - speedtest_cli
     homebrew_cask_repositories:
     homebrew_cask_packages:
