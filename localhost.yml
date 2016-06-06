@@ -32,7 +32,6 @@
       - redis
       - memcached
       - nkf
-      - scala
       - gradle
       - mongodb
       - heroku-toolbelt
