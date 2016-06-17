@@ -45,5 +45,6 @@
       - nvm
       - highlight
       - speedtest_cli
+      - shellcheck
     homebrew_cask_repositories:
     homebrew_cask_packages:
