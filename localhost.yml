@@ -28,7 +28,7 @@
       - qt
       - ansible
       - ghostscript
-      - mysql56
+      - mysql
       - redis
       - memcached
       - nkf
